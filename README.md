@@ -3,10 +3,10 @@ TrendFit Shirt is a simple and fully responsive eCommerce website built using Wo
 
 # Screenshot 
 ### Front page
-<video controls src="videos/1.mp4" title="Title"></video>
+![alt text](videos/FrontPage.gif)
 <br>
 ### About Us
-<video controls src="videos/2.mp4" title="Title"></video>
+![alt text](<videos/About Us.gif>) 
 <br>
 ### Contact US
-<video controls src="videos/3.mp4" title="Title"></video>
+![alt text](<videos/Contact us.gif>)
